@@ -29,15 +29,14 @@ python3 -m venv venv
 source venv/bin/activate     # macOS & Linux
 venv\Scripts\activate        # Windows
 </pre>
-###2️⃣ Install dependencies
+### 2️⃣ Install dependencies
 <pre>pip install pytelegrambotapi</pre>
 
- ###3 Add Your Bot Token: 
+### 3 Add Your Bot Token: 
  create env file and insert your bot token there like 
  'TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"'
 
-
- ##▶️ Running the Bot
+## ▶️ Running the Bot
 
 Start the bot with:
 
