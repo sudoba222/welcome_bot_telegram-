@@ -2,9 +2,9 @@
 __pycache__/
 *.py[codz]
 *$py.class
-*.env
+.env
 *.idea
-
+*__pyache__
 # C extensions
 *.so
 
