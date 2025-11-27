@@ -30,7 +30,7 @@ source venv/bin/activate     # macOS & Linux
 venv\Scripts\activate        # Windows
 </pre>
 ###2️⃣ Install dependencies
-'pip install pytelegrambotapi'
+<pre>pip install pytelegrambotapi</pre>
 
  ###3 Add Your Bot Token: 
  create env file and insert your bot token there like 
@@ -40,4 +40,5 @@ venv\Scripts\activate        # Windows
  ##▶️ Running the Bot
 
 Start the bot with:
-'python bot.py'
+
+<pre>python bot.py</pre>
